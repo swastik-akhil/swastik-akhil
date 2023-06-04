@@ -6,9 +6,11 @@
 
 🧑‍🎓 I am enrolled in an undergraduate program, majoring in Computer Science.
 
-💡 Beyond my academic pursuits, I actively seek out opportunities to expand my horizons. I attend tech conferences, participate in coding competitions, and contribute to open-source projects. These experiences help me stay up-to-date with industry trends and collaborate with talented individuals worldwide.
+💡 Beyond my academic pursuits, I actively seek out opportunities to expand my horizons. I attend tech conferences, participate in coding   competitions, and contribute to open-source projects. These experiences help me stay up-to-date with industry trends and collaborate with talented individuals worldwide.
 
-📫 Connect with me on LinkedIn to stay in touch and explore mutual interests.
+😋 My best skill is actually eating samosas. I can eat chilly samosas with extra spices in it. Having samosa with coriander chutney gives me wiings.
+
+📫 Love samosa as much I do. Let's talk about how awesome they are! We can code 🧑‍💻 while eating samosa!
 
 🚀 Let's embark on this exciting journey together, aiming for infinity and beyond!
 
