@@ -1,4 +1,4 @@
-👋 Hello, I'm @swastik-akhil from India.
+👋 Hello, I'm Akhil Agrawal from India.
 
 👀 I have a keen interest in expanding my knowledge in various software technologies.
 
