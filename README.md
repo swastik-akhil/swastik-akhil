@@ -1,4 +1,4 @@
-🙏 Namaste, I'm Akhil Agrawal from India.
+🙏 Radhe Radhe, I'm Akhil Agrawal from India.
 
 👀 I have a keen interest in expanding my knowledge in various software technologies.
 
