@@ -1,5 +1,4 @@
- <h1 align="center"> 🙏 Radhe Radhe
-
+ <h1 align="center"> 🙏 Radhe Radhe,
 I'm Akhil Agrawal</h1><br>👀 I have a keen interest in expanding my knowledge in various software technologies.<br><br>🌱 Currently, I am actively learning and exploring the realms of Web Development and Data Structures and Algorithms.<br><br>🧑‍🎓 I am enrolled in an undergraduate program, majoring in Computer Science.<br><br>💡 Beyond my academic pursuits, I actively seek out opportunities to expand my horizons. I attend tech conferences, participate in coding competitions, and contribute to open-source projects. These experiences help me stay up-to-date with industry trends and collaborate with talented individuals worldwide.<br><br>😋 My **best skill** is actually eating **samosas**. I can eat chilly samosas with extra spices in it. Having samosa with coriander chutney gives me **wiings**.<br><br>📫 Love samosa as much I do. Let's talk about how awesome they are! We can code 🧑‍💻 while eating samosa!<br><br>🚀 Let's embark on this exciting journey together, aiming for infinity and beyond!<br><br>
  <h3 align="center"> A passionate developer from India </h3>
 
