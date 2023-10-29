@@ -1,6 +1,6 @@
 <h1 align="center"> 🙏 Radhe Radhe</h1>
 
-<p align="center">I'm Akhil Agrawal</p>
+<h1 align="center">I'm Akhil Agrawal</h1>
 
 <p align="center">👀 I have a keen interest in expanding my knowledge in various software technologies.</p>
 
