@@ -21,7 +21,7 @@
 <h2 align="center"> 🌐 Socials:</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/akhil-agrawal-soccer">
+  <a href="https://www.linkedin.com/in/akhil-agrawal-soccer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
