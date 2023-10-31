@@ -31,11 +31,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="Express.js">
+  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=fplastic&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=fplastic&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 </p>
 
 <h2 align="center"> 📊 GitHub Stats:</h2>
@@ -56,13 +57,11 @@
 
 <h2 align="center"> 🔝 Top Contributed Repo</h2>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=swastik-akhil&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=swastik-akhil&icon=8&color=0" alt="Visitor Count">
-</p>
+
+
+
+
+
 
