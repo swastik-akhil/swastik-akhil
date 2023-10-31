@@ -55,10 +55,19 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
 </p>
 
+
 <h2 align="center"> 🔝 Top Contributed Repo</h2>
 
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=swastik-akhil&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</p>
 
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=swastik-akhil&icon=8&color=0" alt="Visitor Count">
+</p>
 
 
 
