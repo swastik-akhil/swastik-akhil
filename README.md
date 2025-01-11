@@ -1,76 +1,34 @@
-<h1 align="center"> 🙏 Radhe Radhe</h1>
+![👋 Namaste, my name is Akhil Agrawal](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">I'm Akhil Agrawal</h1>
+![Profile views](https://komarev.com/ghpvc/?username=swastik-akhil&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="center">👀 I have a keen interest in expanding my knowledge in various software technologies.</p>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Namaste, my name is Akhil Agrawal
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-<p align="center">🌱 Currently, I am actively learning and exploring the realms of Web Development and Data Structures and Algorithms.</p>
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="akhilmindset@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/akhil-agrawal-soccer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 12px"></a></p>
 
-<p align="center">🧑‍🎓 I am enrolled in an undergraduate program, majoring in Computer Science.</p>
+ **<h3 align="center">👀 I have a keen interest in expanding my knowledge in various software technologies.</h3>**
 
-<p align="center">💡 Beyond my academic pursuits, I actively seek out opportunities to expand my horizons. I attend tech conferences, participate in coding competitions, and contribute to open-source projects. These experiences help me stay up-to-date with industry trends and collaborate with talented individuals worldwide.</p>
+**<h3 align="center">🧑‍🎓 I am enrolled in an undergraduate program, majoring in Computer Science.</h3>**
 
-<p align="center">😋 My <strong>best skill</strong> is actually eating <strong>samosas</strong>. I can eat chilly samosas with extra spices in it. Having samosa with coriander chutney gives me <strong>wiings</strong>.</p>
+**<h2 align="center">To infinity and beyond.</h2>**
 
-<p align="center">📫 Love samosas as much I do. Let's talk about how awesome they are! We can code 🧑‍💻 while eating samosa!</p>
+ **<h3 align="center">Skills</h3>**
 
-<p align="center">🚀 Let's embark on this exciting journey together, aiming for infinity and beyond!</p>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 12px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" height="32" alt="Ruby" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 12px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 12px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 12px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="32" alt="Mongoose" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="32" alt="Amazon AWS" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 12px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="32" alt="C++" style="margin-right: 12px"></div>
 
-<h3 align="center"> A passionate developer from India </h3>
+ **<h3 align="left">GitHub Stats</h3>**
 
-<h2 align="center"> 🌐 Socials:</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akhil-agrawal-soccer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swastik-akhil&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastik-akhil&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
 </p>
-
-<h2 align="center"> 💻 Tech Stack:</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=fplastic&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-</p>
-
-<h2 align="center"> 📊 GitHub Stats:</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swastik-akhil&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik-akhil&theme=synthwave&hide_border=false" alt="GitHub Streak">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-akhil&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
-
-<h2 align="center"> ✍️ Random Dev Quote</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
-</p>
-
-
-<h2 align="center"> 🔝 Top Contributed Repo</h2>
-
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=swastik-akhil&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=swastik-akhil&icon=8&color=0" alt="Visitor Count">
-</p>
-
-
-
-
-
 
