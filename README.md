@@ -12,11 +12,13 @@
 </div>
 
 **<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="akhilmindset@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/akhil-agrawal-soccer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 12px"></a></p>
+<p align="center"><a href="mailto:akhilmindset@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/akhil-agrawal-soccer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 12px"></a></p>
 
- **<h3 align="center">👀 I have a keen interest in expanding my knowledge in various software technologies.</h3>**
+ **<h3 align="center">👀 I have a keen interest in expanding my knowledge in computer science fundamentals and various software technologies .</h3>**
 
 **<h3 align="center">🧑‍🎓 I am enrolled in an undergraduate program, majoring in Computer Science.</h3>**
+
+**<h3 align="center">I am a believer of Nothing is Impossible.</h3>**
 
 **<h2 align="center">To infinity and beyond.</h2>**
 
